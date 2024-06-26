@@ -17,3 +17,5 @@ const binary_search = (Arr, val, si, ei) => {
 };
 
 binary_search([1, 2, 3, 4], 5, 0, 3);  
+
+module.exports = {binary_search}
